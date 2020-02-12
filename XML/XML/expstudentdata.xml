@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MyClassRoot>
+  <Student id="0">
+    <FName>תלמיד0</FName>
+    <LName>aaa0</LName>
+  </Student>
+  <Student id="1">
+    <FName>תלמיד1</FName>
+    <LName>aaa1</LName>
+  </Student>
+  <Student id="2">
+    <FName>תלמיד2</FName>
+    <LName>aaa2</LName>
+  </Student>
+  <Student id="3">
+    <FName>תלמיד3</FName>
+    <LName>aaa3</LName>
+  </Student>
+  <Student id="4">
+    <FName>תלמיד4</FName>
+    <LName>aaa4</LName>
+  </Student>
+  <Student id="5">
+    <FName>תלמיד5</FName>
+    <LName>aaa5</LName>
+  </Student>
+  <Student id="6">
+    <FName>תלמיד6</FName>
+    <LName>aaa6</LName>
+  </Student>
+  <Student id="7">
+    <FName>תלמיד7</FName>
+    <LName>aaa7</LName>
+  </Student>
+  <Student id="8">
+    <FName>תלמיד8</FName>
+    <LName>aaa8</LName>
+  </Student>
+  <Student id="9">
+    <FName>תלמיד9</FName>
+    <LName>aaa9</LName>
+  </Student>
+</MyClassRoot>

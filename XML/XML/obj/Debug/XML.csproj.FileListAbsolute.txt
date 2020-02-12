@@ -1,0 +1,19 @@
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\C# Extentions\Lesson24 xml\XML\XML\bin\Debug\XML.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\C# Extentions\Lesson24 xml\XML\XML\bin\Debug\XML.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\C# Extentions\Lesson24 xml\XML\XML\bin\Debug\XML.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\C# Extentions\Lesson24 xml\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\C# Extentions\Lesson24 xml\XML\XML\obj\Debug\XML.Properties.Resources.resources
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\C# Extentions\Lesson24 xml\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\C# Extentions\Lesson24 xml\XML\XML\obj\Debug\XML.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\C# Extentions\Lesson24 xml\XML\XML\obj\Debug\XML.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\C# Extentions\Lesson24 xml\XML\XML\obj\Debug\XML.Form1.resources
+D:\C Sharp database\Lesson24 xml\XML\XML\bin\Debug\XML.exe.config
+D:\C Sharp database\Lesson24 xml\XML\XML\bin\Debug\XML.exe
+D:\C Sharp database\Lesson24 xml\XML\XML\bin\Debug\XML.pdb
+D:\C Sharp database\Lesson24 xml\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+D:\C Sharp database\Lesson24 xml\XML\XML\obj\Debug\XML.Form1.resources
+D:\C Sharp database\Lesson24 xml\XML\XML\obj\Debug\XML.Properties.Resources.resources
+D:\C Sharp database\Lesson24 xml\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+D:\C Sharp database\Lesson24 xml\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+D:\C Sharp database\Lesson24 xml\XML\XML\obj\Debug\XML.exe
+D:\C Sharp database\Lesson24 xml\XML\XML\obj\Debug\XML.pdb

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student id="3433">
+    <firstName>ככ</firstName>
+    <lastName>Sofer</lastName>
+    <Address>
+      <street></street>
+      <house>34</house>
+    </Address>
+    <Hitmachut />
+    <Grades>
+      <grade Subject="C#" mark="99" />
+      <grade Subject="SQL" mark="99" />
+      <grade Subject="MVC" mark="99" />
+      <grade Subject="Angular" mark="99" />
+    </Grades>
+  </student>
+  <student>
+    <firstName>Bracha</firstName>
+    <lastName>Sofer</lastName>
+    <Address>
+      <street>RabiAkiva</street>
+      <house>34</house>
+    </Address>
+    <Hitmachut />
+    <Grades>
+      <grade Subject="C#" mark="99" />
+      <grade Subject="SQL" mark="99" />
+      <grade Subject="MVC" mark="99" />
+      <grade Subject="Angular" mark="99" />
+      <grade Subject="TS" mark="44" />
+    </Grades>
+  </student>
+  <student>
+    <firstName>Shoshi</firstName>
+    <lastName>malca</lastName>
+  </student>
+  <student>
+    <firstName>Sara</firstName>
+    <lastName>Sofer</lastName>
+  </student>
+  <student>
+    <firstName>ככ</firstName>
+    <lastName>Sofer</lastName>
+  </student>
+  <student>
+    <firstName>ככ</firstName>
+    <lastName>Sofer</lastName>
+  </student>
+  <student>
+    <firstName>ככ</firstName>
+    <lastName>Sofer</lastName>
+  </student>
+</students>
